@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-matplotlib
+import matplotlib.pyplot as plt
 scikit-learn
 statsmodels
 pmdarima
